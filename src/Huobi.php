@@ -4,7 +4,7 @@
  */
 namespace think;
 
-class HuobiApi
+class Huobi
 {
     private $account_id = '';
     private $access_key = '';
