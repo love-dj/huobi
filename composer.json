@@ -1,0 +1,27 @@
+{
+    "name": "love-dj/huobi",
+    "description": "提供了一套全新的API，可以帮用户快速接入火币PRO站及HADAX站的交易系统，实现程序化交易",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "myhsj",
+            "email": "myhsj@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        }
+    },
+    "extra": {
+        "think": {
+            "config": {
+                "huobi": "config/config.php"
+            }
+        }
+    }
+}
