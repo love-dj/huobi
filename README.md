@@ -6,7 +6,7 @@
 使用thinkphp6.0
 
 ```shell
-composer require love-dj/huobi
+composer require love-dj/huobi dev-main
 ```
 
 
