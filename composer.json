@@ -3,7 +3,8 @@
     "description": "提供了一套全新的API，可以帮用户快速接入火币PRO站及HADAX站的交易系统，实现程序化交易",
     "type": "library",
     "require": {
-        "php": "^7.1"
+        "php": "^7.1",
+        "guzzlehttp/guzzle": "~6.0"
     },
     "license": "MIT",
     "authors": [
